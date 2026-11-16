@@ -6,7 +6,7 @@ Repositório dedicado à implementação e resolução das questões práticas d
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Linguagem:** Python 3
 ---
 
@@ -22,7 +22,7 @@ Repositório dedicado à implementação e resolução das questões práticas d
 
 ---
 
-## 📚 Referências Bibliográficas
+## Referências Bibliográficas
 
 * **CORMEN, Thomas H. et al.** *Introduction to Algorithms*. 3ª ou 4ª ed. MIT Press. (Utilizado como referência teórica fundamental para a modelagem da Programação Dinâmica e algoritmos gulosos).
 * Material didático e enunciados fornecidos pela coordenação da disciplina de Projeto e Análise de Algoritmos da Universidade Federal do Ceará (UFC - Crateús).
