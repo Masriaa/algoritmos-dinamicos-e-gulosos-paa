@@ -1,1 +1,1 @@
-# algoritmos-din-micos-e-gulosos-paa
+# algoritmos-dinâmicos-e-gulosos-paa
