@@ -17,7 +17,7 @@ def pilha_moedas(v, n, S):
 
   return (dp, rastreio)
 
-def resultado_troco(moedas, S):
+def resultado(moedas, S):
   n = len(moedas)
   dp, rastreio = pilha_moedas(moedas, n, S)
 
